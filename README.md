@@ -1,6 +1,6 @@
 # ILA App
 
-ILA App is a modern web application that allows users to manage their information and handle authentication with ease. It is built using React and Auth0.
+ILA App is a modern web application that allows users to manage their profiles and perform various product management tasks, including viewing, adding, editing, and deleting products. It is built with React and uses Auth0 for authentication.
 
 ## Live Demo
 
@@ -48,23 +48,7 @@ To run this project locally, follow these steps:
 
 - Visit the live demo link to see the application in action.
 - Use the Auth0 login to access the app.
-- The app displays the user's first name and provides a logout button.
+- After logging in, you need to register in the app.
+- You can view, edit, delete, and add new products within the app.
 
-## Contributing
 
-If you would like to contribute to the project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add new feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Create a new Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or inquiries, please reach out to [your-email@example.com](mailto:your-email@example.com).
