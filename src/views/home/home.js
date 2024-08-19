@@ -68,7 +68,7 @@ const Home = () => {
         ),
       },
     ],
-    [products, handleDeleteProduct]
+    [products]
   );
 
   const tableInstance = useTable({ columns, data: products });
